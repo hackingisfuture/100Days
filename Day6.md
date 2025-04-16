@@ -83,7 +83,7 @@ So I try to showcase:
 - My approach behind finding bugs
 - And how **you can replicate** the same
 
-**IKIDO.**
+**aikido.**
 
 ---
 
